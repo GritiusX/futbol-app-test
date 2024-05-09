@@ -1,0 +1,216 @@
+{
+	"equipos": [
+		{
+			"id": 1,
+			"nombre": "Los Magníficos",
+			"tipo": "F5",
+			"valoracion": 4.5,
+			"jugadores": [
+				{
+					"nombre": "Juan Pérez",
+					"numero": 11,
+					"posicion": "Delantero",
+					"descripcion": "Rápido y ágil"
+				},
+				{
+					"nombre": "Pedro García",
+					"numero": 12,
+					"posicion": "Mediocampista",
+					"descripcion": "Creativo y visionario"
+				},
+				{
+					"nombre": "Carlos López",
+					"numero": 10,
+					"posicion": "Defensa",
+					"descripcion": "Sólido y confiable"
+				},
+				{
+					"nombre": "Luis Rodríguez",
+					"numero": 9,
+					"posicion": "Portero",
+					"descripcion": "Seguro bajo los palos"
+				},
+				{
+					"nombre": "María González",
+					"numero": 8,
+					"posicion": "Atacante",
+					"descripcion": "Hábil en el uno contra uno"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"nombre": "Los Titanes en el ring",
+			"tipo": "F7",
+			"valoracion": 5,
+			"jugadores": [
+				{
+					"numero": 10,
+					"nombre": "Roberto Carlos",
+					"posicion": "Delantero",
+					"descripcion": "Impecable, no hay mejor"
+				},
+				{
+					"numero": 9,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				},
+				{
+					"numero": 6,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				},
+				{
+					"numero": 7,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				},
+				{
+					"numero": 5,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				},
+				{
+					"numero": 3,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				},
+				{
+					"numero": 4,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"nombre": "Los Grandotes",
+			"tipo": "F11",
+			"valoracion": 5,
+			"jugadores": [
+				{
+					"numero": 10,
+					"nombre": "Roberto Carlos",
+					"posicion": "Delantero",
+					"descripcion": "Impecable, no hay mejor"
+				},
+				{
+					"numero": 7,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				},
+				{
+					"numero": 8,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				},
+				{
+					"numero": 14,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				},
+				{
+					"numero": 9,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				},
+				{
+					"numero": 1,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				},
+				{
+					"numero": 2,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				},
+				{
+					"numero": 3,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				},
+				{
+					"numero": 5,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				},
+				{
+					"numero": 68,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				},
+				{
+					"numero": 32,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"nombre": "Los Chiqui Tapia",
+			"tipo": "F7",
+			"valoracion": 5,
+			"jugadores": [
+				{
+					"numero": 10,
+					"nombre": "Roberto Carlos",
+					"posicion": "Delantero",
+					"descripcion": "Impecable, no hay mejor"
+				},
+				{
+					"numero": 3,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				},
+				{
+					"numero": 4,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				},
+				{
+					"numero": 7,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				},
+				{
+					"numero": 11,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				},
+				{
+					"numero": 9,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				},
+				{
+					"numero": 13,
+					"nombre": "Marta Giménez",
+					"posicion": "Defensa",
+					"descripcion": "Macisa como loza de hormigón"
+				}
+			]
+		}
+	]
+}
