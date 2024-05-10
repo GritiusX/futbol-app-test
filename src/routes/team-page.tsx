@@ -46,9 +46,9 @@ export default function TeamPage() {
 			<section className="min-h-[calc(100vh-56px)] w-full p-4 relative flex flex-col items-center">
 				{selectedTeam && (
 					<>
-						<div className="flex flex-col gap-2 text-dayWhite w-full items-center">
-							<div className="flex gap-4 items-center">
-								<div className="flex flex-col">
+						<div className="flex flex-col gap-2 text-dayWhite w-full items-center mb-4">
+							<div className="flex gap-4 items-center ">
+								<div className="flex flex-col ">
 									<p className="text-3xl font-semibold text-center">
 										{selectedTeam.nombre}
 									</p>
